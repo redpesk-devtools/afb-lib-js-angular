@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Observable, Subject, BehaviorSubject, from, ReplaySubject, forkJoin } from 'rxjs';
 import { filter, switchMap, map, take } from 'rxjs/operators';
-import { AFB } from 'afbjs-lib';
+import { AFB } from 'afb-lib-js';
 
 export interface AFBContext {
     token: string;

@@ -4,10 +4,10 @@
   "lib": {
     "entryFile": "src/public-api.ts",
     "umdModuleIds": {
-      "afbjs-lib": "afbjs-lib"
+      "afb-lib-js": "afb-lib-js"
     }
   },
   "whitelistedNonPeerDependencies": [
-    "afbjs-lib"
+    "afb-lib-js"
   ]
 }

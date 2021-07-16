@@ -1,5 +1,5 @@
 {
-  "name": "afbjs-lib-angular",
+  "name": "afb-lib-js-angular",
   "version": "1.0.0",
   "author": "Sebastien Douheret",
   "peerDependencies": {
@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "tslib": "^2.0.0",
-    "afbjs-lib": "1.0.0"
+    "afb-lib-js": "1.0.0"
   }
 }
